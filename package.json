@@ -1,0 +1,15 @@
+{
+  "name": "animaldebugging",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^10.1.2",
+    "nanospinner": "^1.1.0"
+  }
+}
