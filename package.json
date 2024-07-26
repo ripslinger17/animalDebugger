@@ -1,12 +1,20 @@
 {
   "name": "animaldebugging",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ripslinger17/animalDebugging.git"
+  },
   "keywords": [],
-  "author": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ripslinger",
   "license": "ISC",
-  "description": "",
+  "description": "Made this project when I was free. Inspired from CS50 Duck Debugger",
+  "bin": "./index.js",
   "dependencies": {
     "chalk": "^5.3.0",
     "inquirer": "^10.1.2",
